@@ -1,5 +1,12 @@
-# Customer-Order-Management-System
+ Customer and Order Management
 
+## Overview
+
+This project is a Node.js application designed for managing customers, products, and orders using MySQL as the database. The application provides functionalities for customer registration and login, product management, and order handling.
+
+## Project Structure
+
+```plaintext
 Customer and Order Management/
 │
 │   └── db/
@@ -53,3 +60,4 @@ Customer and Order Management/
 - **MySQL**: Relational database management system
 - **bcrypt**: Library for hashing passwords
 - **moment.js**: Library for date and time manipulation
+
